@@ -1,0 +1,29 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+.title{
+    font-weight: bolder;
+    font-size: 40px;
+}
+.image{
+    height: 300px;
+    width: 300px;
+}
+.subtitle{
+    font-weight: bold;
+    font-size: 20px;
+}
+.text{
+    
+}
+.ingredients{
+    border-style: solid;
+    border-width: auto;
+    border-color: black;
+}
+.steps{
+    border-style: solid;
+    border-width: auto;
+    border-color: black;
+}
